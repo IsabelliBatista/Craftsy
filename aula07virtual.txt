@@ -1,0 +1,10 @@
+criou novo repositorio no github
+entrou no git bash
+deu cd ate chegar na pasta xamp htdocs
+deu git clone
+abriu cd nome pasta que deu no repositorio
+vai no vscode
+abre a pasta do repositorio
+cria um index.html
+substitui o head pelo que ta no wordpad.cc wordpad.cc/headdobootstrap
+copiar o codigo do bootstrap sobre o nav bar
